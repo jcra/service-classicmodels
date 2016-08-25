@@ -5,7 +5,7 @@ Service-Classicmodels
 
 This project is build using [Maven](https://maven.apache.org/index.html)
 
-Componets used in this project:
+Components used in this project:
 
 + [Jersey.](https://jersey.java.net/) **Ver. 2.23.1** - framework for developing RESTful Web Services in Java that provides support for JAX-RS APIs and serves as a JAX-RS (JSR 311 & JSR 339) Reference Implementation.
 + [JUnit.](http://junit.org/junit4/) **Ver. 4.12** - is a simple framework to write repeatable tests.
