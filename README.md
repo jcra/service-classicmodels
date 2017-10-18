@@ -16,7 +16,7 @@ Components used in this project:
 + [Jersey + Spring](https://jersey.java.net/documentation/latest/spring.html) **Ver. 2.23.1** - Jersey provides an extension to support Spring DI. This enables Jersey to use Spring beans as JAX-RS components (e.g. resources and providers) and also allows Spring to inject into Jersey managed components.
 + [Spring Framework](http://spring.io/) **Ver. 4.1.7.RELEASE** -  Spring helps development teams everywhere build simple, portable, fast and flexible JVM-based systems and applications.
 
-###Spring Framework Componets
+##Spring Framework Componets
 ------
 + spring-core
 + spring-context
